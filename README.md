@@ -1,4 +1,6 @@
 # Climbing Topos
-![Centurion HVS](https://github.com/chigozienri/topos/blob/main/centurion/centurion.jpg?raw=true)
+## Ben Nevis
+![Centurion HVS](https://raw.githubusercontent.com/chigozienri/topos/main/centurion/centurion.jpeg)
 
+## Dunkeld
 [Lower Cave Crag, Dunkeld](https://www.ukclimbing.com/logbook/crags/dunkeld_cave_crag-36/#topos)
